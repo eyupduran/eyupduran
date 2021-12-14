@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Eyüp</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eyupduran&label=Profile%20views&color=0e75b6&style=flat" alt="eyupduran" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eyupduran" alt="eyupduran" /></a> </p>
+
 - 🌱 I’m currently learning **React**
+
+- 📫 How to reach me **eduran19@posta.pau.edu.tr**
+
+- 📄 Know about my experiences [https://softfes.herokuapp.com/eyupduran/](https://softfes.herokuapp.com/eyupduran/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -12,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eyupduran&show_icons=true&locale=en&layout=compact" alt="eyupduran" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eyupduran&show_icons=true&locale=en" alt="eyupduran" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eyupduran&" alt="eyupduran" /></p>
