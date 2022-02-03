@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eyüp</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eyupduran&label=Profile%20views&color=0e75b6&style=flat" alt="eyupduran" /> </p>
+<p><img src="https://profile-counter.glitch.me/%7BFikretCansel%7D/count.svg" alt="eyupduran :: Visitor's Count" /></p>
 
 - 🌱 I’m currently learning **React**
 
