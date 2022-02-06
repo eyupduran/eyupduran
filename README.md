@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eyüp</h1>
-<p><img src="https://profile-counter.glitch.me/%7BEyüp Duran%7D/count.svg" alt="eyupduran :: Visitor's Count" /></p>
+<p align="center">Profie Count</p>
+<p align="center"><img src="https://profile-counter.glitch.me/%7BEyüp Duran%7D/count.svg" alt="eyupduran :: Visitor's Count" /></p>
 
 - 🌱 I’m currently learning **React**
 
