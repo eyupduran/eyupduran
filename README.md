@@ -2,7 +2,7 @@
 <p align="center">Profil Visit Count</p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BEyüp Duran%7D/count.svg" alt="eyupduran :: Visitor's Count" /></p>
 
--🌱 I’m currently learning **React**
+-🌱 I’m currently learning **GOLANG AND VUE.JS**
 
 -📫 How to reach me **eduran19@posta.pau.edu.tr**
 
