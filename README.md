@@ -6,8 +6,6 @@
 
 -📫 How to reach me **eduran19@posta.pau.edu.tr**
 
--📄 Know about my experiences [https://softfes.herokuapp.com/eyupduran/](https://softfes.herokuapp.com/eyupduran/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/drn_eyp0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="drn_eyp0" height="30" width="40" /></a>
