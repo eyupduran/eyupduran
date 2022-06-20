@@ -4,7 +4,7 @@
 
 -🌱 I’m currently learning **Golang and Vue.js**
 
--📫 How to reach me **eduran19@posta.pau.edu.tr**
+-📫 How to reach me **eyupduran19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
