@@ -2,7 +2,7 @@
 <div align="center" ><img src="https://media0.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif?cid=ecf05e478txycilw27v9jcl1rbqk5uakfxwwfpp5ixs6u63e&rid=giphy.gif&ct=s" width="300"></div>
 </p>
 <hr/>
-<h2 align="center"> I am a Computer Engineering student. I like to Code, Solve Problem and Innovate. I am an enthusiastic person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h2>
+<h3 align="center"> I am a Computer Engineering student. I like to Code, Solve Problem and Innovate. I am an enthusiastic person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h3>
 <br>
 <h5 align="center">Profil Visit Count</h5>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BEyüp Duran%7D/count.svg" alt="eyupduran :: Visitor's Count" /></p>
