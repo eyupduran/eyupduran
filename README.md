@@ -3,7 +3,7 @@
 </div>
 
 <br>
-<div align="left" width="300px"><h3> I am a Computer Engineering student. I like to Code, Solve Problem and Innovate. I am an enthusiastic person who loves to take up   new <br> challenges and learn new skills. I love meeting new people,exchanging <br>  ideas and spreading knowledge and positivity.</h3>
+<div align="left" width="300px"><h3> I am a Computer Engineering student. I like to Code, Solve Problem and Innovate. I am an enthusiastic person who loves to take up   new <br> challenges and learn new skills. I love meeting new people,exchanging ideas and spreading knowledge and positivity.</h3>
 </div>
 <br>
 
