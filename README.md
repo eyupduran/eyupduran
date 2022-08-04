@@ -1,9 +1,12 @@
-<h1 align="center">Hi , I'm Eyüp Duran</h1> 
-<div align="center" ><img src="https://media0.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif?cid=ecf05e478txycilw27v9jcl1rbqk5uakfxwwfpp5ixs6u63e&rid=giphy.gif&ct=s" width="300"></div>
-</p>
-<hr/>
-<h3 align="center"> I am a Computer Engineering student. I like to Code, Solve Problem and Innovate. I am an enthusiastic person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h3>
+<h1 align="left">Hi , I'm Eyüp Duran</h1> 
+<div align="left" width="30%" ><img src="https://media0.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif?cid=ecf05e478txycilw27v9jcl1rbqk5uakfxwwfpp5ixs6u63e&rid=giphy.gif&ct=s" width="300" align="right">
+</div>
+
 <br>
+<div align="left" width="300px"><h3> I am a Computer Engineering student. I like to Code, Solve Problem and Innovate. I am an enthusiastic person who loves to take up   new <br> challenges and learn new skills. I love meeting new people,exchanging <br>  ideas and spreading knowledge and positivity.</h3>
+</div>
+<br>
+
 <h5 align="center">Profil Visit Count</h5>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BEyüp Duran%7D/count.svg" alt="eyupduran :: Visitor's Count" /></p>
 
@@ -42,11 +45,11 @@
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   </a>   
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   </a> 
 &emsp; 
 </p>
@@ -71,7 +74,9 @@
   <br/>
 
 ### 👉 Frameworks & Libraries
+
 <p align="left">
+&emsp;
  <a href="https://docs.microsoft.com/tr-tr/dotnet/welcome"><img alt=".NET" src ="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /></a>
   &emsp;
 <a href="https://tr.reactjs.org/"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFBe"></a> 
@@ -84,6 +89,7 @@
 ### 👉 Software & Tools
 
 <p align="left">
+&emsp;
     <a href="#"><img alt="Visual Studio Code " src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
   &emsp;
      <a href="#"><img alt="Visual Studio " src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
@@ -93,10 +99,12 @@
     </a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
     &emsp;
-    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
      &emsp;
-    
-
+    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
+     <br>
+      &emsp;
+    <a href="#"><img alt="Postman " src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
 </p>
 
 <br/>
@@ -124,8 +132,6 @@
   <br/>
 
 </details>
-
-<br/>
 <br/>
 
 ## 🙋‍♀️ Let's Connect
