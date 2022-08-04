@@ -1,4 +1,4 @@
-<h1 align="left">Hi , I'm Eyüp Duran</h1> 
+<h1 align="center">Hi , I'm Eyüp Duran</h1> 
 <div align="left" width="30%" ><img src="https://media0.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif?cid=ecf05e478txycilw27v9jcl1rbqk5uakfxwwfpp5ixs6u63e&rid=giphy.gif&ct=s" width="300" align="right">
 </div>
 
