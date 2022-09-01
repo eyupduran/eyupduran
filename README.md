@@ -10,7 +10,33 @@
 <h5 align="center">Profil Visit Count</h5>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BEyüp Duran%7D/count.svg" alt="eyupduran :: Visitor's Count" /></p>
 
+<br/>
 
+## 📊 Github Stats (Expand to View)
+
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/eyupduran"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eyupduran&show_icons=true&locale=en&theme=algolia" alt="eyupduran" height="192px"/></a>
+	</p>
+	<p  align="center">
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eyupduran&show_icons=true&locale=en&layout=compact&theme=algolia" alt="eyupduran" height="192px"/>
+	</p>
+  <br/>
+  
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
+
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/eyupduran"><img alt="Eyup's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=eyupduran&custom_title=Eyup%20Duran%27s%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+</details>
+<br/>
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
@@ -40,52 +66,17 @@
 </p>
   <br/>
 
-### 👉 Frontend Development
-
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  </a> 
-&emsp; 
-</p>
-  <br/>
-
-### 👉 Databases & Cloud Hosting
-
-<p align="left">
-  &emsp;
-   <a href="https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16"><img alt="MSSQL" src ="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /></a>
-  &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a> 
-  &emsp;
-    <a href="https://www.postgresql.org/"><img alt="PostgreSql" src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.netlify.com/"><img alt="Netlify" src ="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>  
-  &emsp;
-  
-</p>
-  <br/>
-
 ### 👉 Frameworks & Libraries
-
 <p align="left">
+<a href="https://docs.microsoft.com/tr-tr/dotnet/welcome"><img alt=".NET" src ="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /></a>
 &emsp;
- <a href="https://docs.microsoft.com/tr-tr/dotnet/welcome"><img alt=".NET" src ="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /></a>
+ <a href="https://angular.io/"><img alt=".NET" src ="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /></a>
   &emsp;
 <a href="https://tr.reactjs.org/"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFBe"></a> 
   &emsp;
  <a href="https://spring.io/projects/spring-boot"><img alt="SpringBoot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=flat&logo=Spring-Boot&logoColor=white" width ="120"></a> 
 </p>
-
-  <br/>
-
+<br/>
 ### 👉 Software & Tools
 
 <p align="left">
@@ -108,33 +99,24 @@
        &emsp;
     <a href="#"><img alt="Figma " src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
 </p>
-
 <br/>
+### 👉 Databases & Cloud Hosting
 
-## 📊 Github Stats (Expand to View)
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/eyupduran"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eyupduran&show_icons=true&locale=en&theme=algolia" alt="eyupduran" height="192px"/></a>
-	</p>
-	<p  align="center">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eyupduran&show_icons=true&locale=en&layout=compact&theme=algolia" alt="eyupduran" height="192px"/>
-	</p>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/eyupduran"><img alt="Eyup's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=eyupduran&custom_title=Eyup%20Duran%27s%20Contribution%20Graph&theme=react-dark" /></a>
+<p align="left">
+  &emsp;
+   <a href="https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16"><img alt="MSSQL" src ="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /></a>
+  &emsp;
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a> 
+  &emsp;
+    <a href="https://www.postgresql.org/"><img alt="PostgreSql" src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.netlify.com/"><img alt="Netlify" src ="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>  
+  &emsp;
+</p>
   <br/>
 
-</details>
-<br/>
 
 ## 🙋‍♀️ Let's Connect
 
