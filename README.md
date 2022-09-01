@@ -70,6 +70,7 @@
 ### 👉 Frameworks & Libraries
 
 <p align="left">
+ &emsp;
 <a href="https://docs.microsoft.com/tr-tr/dotnet/welcome"><img alt=".NET" src ="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /></a>
 &emsp;
  <a href="https://angular.io/"><img alt=".NET" src ="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /></a>
