@@ -37,6 +37,7 @@
 
 </details>
 <br/>
+
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
@@ -67,6 +68,7 @@
   <br/>
 
 ### 👉 Frameworks & Libraries
+
 <p align="left">
 <a href="https://docs.microsoft.com/tr-tr/dotnet/welcome"><img alt=".NET" src ="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /></a>
 &emsp;
@@ -77,6 +79,7 @@
  <a href="https://spring.io/projects/spring-boot"><img alt="SpringBoot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=flat&logo=Spring-Boot&logoColor=white" width ="120"></a> 
 </p>
 <br/>
+
 ### 👉 Software & Tools
 
 <p align="left">
@@ -100,6 +103,7 @@
     <a href="#"><img alt="Figma " src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
 </p>
 <br/>
+
 ### 👉 Databases & Cloud Hosting
 
 <p align="left">
