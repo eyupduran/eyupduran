@@ -12,31 +12,6 @@
 
 <br/>
 
-## 📊 Github Stats (Expand to View)
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/eyupduran"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eyupduran&show_icons=true&locale=en&theme=algolia" alt="eyupduran" height="192px"/></a>
-	</p>
-	<p  align="center">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eyupduran&show_icons=true&locale=en&layout=compact&theme=algolia" alt="eyupduran" height="192px"/>
-	</p>
-  <br/>
-  
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/eyupduran"><img alt="Eyup's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=eyupduran&custom_title=Eyup%20Duran%27s%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
-<br/>
 
 ## 🛠️ My Skills
 
