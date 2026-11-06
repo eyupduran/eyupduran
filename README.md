@@ -136,40 +136,6 @@ Containerized stacks from laptop to cluster: reverse proxies, TLS, observability
 </td></tr>
 </table>
 
-## ⟢ How I like to wire things
-
-```mermaid
-flowchart TB
-    C["🌐 Web  ·  📱 Mobile  ·  🎮 3D & Games<br/>React · Capacitor · Expo · Three.js"]
-
-    E["🛡️ Edge<br/>Traefik · Cloudflare"]
-    LK["📡 Media<br/>LiveKit SFU · WebRTC"]
-
-    subgraph S["Services"]
-        API["⚡ Go API<br/>REST · WebSocket"]
-        MP["🕹️ Game Rooms<br/>Colyseus"]
-        AG["🎙️ AI Agents<br/>Python · LiveKit Agents"]
-    end
-
-    subgraph D["State & Messaging"]
-        PG[("PostgreSQL")]
-        RD[("Redis")]
-        S3[("Object Storage")]
-        BUS(["🔀 NATS"])
-    end
-
-    C --> E
-    C -. "audio / video" .-> LK
-    E --> API
-    E --> MP
-    LK <-->|"STT → LLM → TTS"| AG
-    API --> PG
-    API --> RD
-    API --> S3
-    API <--> BUS
-    AG <--> BUS
-```
-
 ## ⟢ Open-source side projects
 
 | Project | What it is | Built with |
