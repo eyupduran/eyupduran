@@ -139,37 +139,35 @@ Containerized stacks from laptop to cluster: reverse proxies, TLS, observability
 ## ⟢ How I like to wire things
 
 ```mermaid
-flowchart LR
-    subgraph Clients
-        W["🌐 Web<br/>React + Vite"]
-        M["📱 Mobile<br/>Capacitor · Expo"]
-        G["🎮 3D & Games<br/>Three.js · Phaser"]
-    end
+flowchart TB
+    C["🌐 Web  ·  📱 Mobile  ·  🎮 3D & Games<br/>React · Capacitor · Expo · Three.js"]
 
     E["🛡️ Edge<br/>Traefik · Cloudflare"]
+    LK["📡 Media<br/>LiveKit SFU · WebRTC"]
 
-    subgraph Services
+    subgraph S["Services"]
         API["⚡ Go API<br/>REST · WebSocket"]
-        AG["🎙️ AI Agents<br/>Python · LiveKit Agents"]
         MP["🕹️ Game Rooms<br/>Colyseus"]
+        AG["🎙️ AI Agents<br/>Python · LiveKit Agents"]
     end
 
-    subgraph Realtime
-        LK["📡 LiveKit SFU<br/>WebRTC"]
-        BUS(["🔀 NATS"])
-    end
-
-    subgraph Data
+    subgraph D["State & Messaging"]
         PG[("PostgreSQL")]
         RD[("Redis")]
         S3[("Object Storage")]
+        BUS(["🔀 NATS"])
     end
 
-    Clients --> E --> API & MP
-    Clients -. "audio / video" .-> LK
+    C --> E
+    C -. "audio / video" .-> LK
+    E --> API
+    E --> MP
     LK <-->|"STT → LLM → TTS"| AG
-    API <--> BUS <--> AG
-    API --> PG & RD & S3
+    API --> PG
+    API --> RD
+    API --> S3
+    API <--> BUS
+    AG <--> BUS
 ```
 
 ## ⟢ Open-source side projects
@@ -183,14 +181,12 @@ flowchart LR
 | [**HadisAtlas**](https://github.com/eyupduran/HadisAtlas) | Multilingual reading, saving & sharing app | `React Native` `Expo` `TypeScript` |
 | [**Vakitname**](https://github.com/eyupduran/Vakitname-expo) | Prayer-times app powered by a public REST API | `React Native` `Expo` `TypeScript` |
 
-## ⟢ Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eyupduran/eyupduran/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eyupduran/eyupduran/output/github-snake.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/eyupduran/eyupduran/output/github-snake.svg" width="100%">
-</picture>
-
 <p align="center">
   <sub>Currently exploring: lower-latency voice pipelines · on-device AI · AI-assisted developer tooling</sub>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg">
+  <img alt="" src="./assets/footer-dark.svg" width="100%">
+</picture>
