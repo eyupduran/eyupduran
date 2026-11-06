@@ -1,110 +1,196 @@
-<h1 align="left">Hi , I'm Eyüp Duran</h1> 
-<div align="left" width="30%" ><img src="https://media0.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif?cid=ecf05e478txycilw27v9jcl1rbqk5uakfxwwfpp5ixs6u63e&rid=giphy.gif&ct=s" width="300" align="right">
-</div>
-
-<br>
-<div align="left" width="300px"><h3> I am a Computer Engineer.I like to Solve Problem and Innovate. I am an enthusiastic person who loves to take up   new <br> challenges and learn new skills. I love meeting new people,exchanging ideas and spreading knowledge and positivity.</h3>
-</div>
-<br>
-
-<h5 align="center">Profil Visit Count</h5>
-<p align="center"><img src="https://profile-counter.glitch.me/%7BEyüp Duran%7D/count.svg" alt="eyupduran :: Visitor's Count" /></p>
-
-<br/>
-
-
-## 🛠️ My Skills
-
-### 👉 Programming languages
-
-<p align="left"> 
-  &emsp;
-    <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-   </a>
-  &emsp;
-    <a href="https://docs.microsoft.com/tr-tr/dotnet/csharp/" target="_blank"> 
-     <img alt="C #" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-   </a>
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-   <a href="https://go.dev/doc/" target="_blank">
-    <img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.typescriptlang.org/docs/">
-    <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  </a>
-&emsp; 
-</p>
-  <br/>
-
-### 👉 Frameworks & Libraries
-
-<p align="left">
- &emsp;
-<a href="https://docs.microsoft.com/tr-tr/dotnet/welcome"><img alt=".NET" src ="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /></a>
-&emsp;
- <a href="https://angular.io/"><img alt=".NET" src ="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /></a>
-  &emsp;
-<a href="https://tr.reactjs.org/"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFBe"></a> 
-  &emsp;
- <a href="https://spring.io/projects/spring-boot"><img alt="SpringBoot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=flat&logo=Spring-Boot&logoColor=white" width ="120"></a> 
-</p>
-<br/>
-
-### 👉 Software & Tools
-
-<p align="left">
-&emsp;
-    <a href="#"><img alt="Visual Studio Code " src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
-  &emsp;
-     <a href="#"><img alt="Visual Studio " src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Intellij Idea" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-  &emsp;
-    </a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
-    &emsp;
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
-     <br>
-     &emsp;
-    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
-      &emsp;
-    <a href="#"><img alt="Postman " src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
-       &emsp;
-    <a href="#"><img alt="Figma " src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
-</p>
-<br/>
-
-### 👉 Databases & Cloud Hosting
-
-<p align="left">
-  &emsp;
-   <a href="https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16"><img alt="MSSQL" src ="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /></a>
-  &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a> 
-  &emsp;
-    <a href="https://www.postgresql.org/"><img alt="PostgreSql" src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.netlify.com/"><img alt="Netlify" src ="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>  
-  &emsp;
-</p>
-  <br/>
-
-
-## 🙋‍♀️ Let's Connect
+<a href="https://github.com/eyupduran">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+    <img alt="Eyüp Duran — Software Engineer" src="./assets/header-dark.svg" width="100%">
+  </picture>
+</a>
 
 <p align="center">
-  <a href="https://algoritimblog.netlify.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:eyupduran19@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/eyupduran"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/ey%C3%BCp-duran/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://instagram.com/drn.eyp"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	
+  <a href="https://www.linkedin.com/in/ey%C3%BCp-duran-103102204"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:eyupduran19@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://algoritimblog.netlify.app/"><img src="https://img.shields.io/badge/Blog-111827?style=for-the-badge&logo=netlify&logoColor=22D3EE" alt="Blog"></a>
+  <img src="https://komarev.com/ghpvc/?username=eyupduran&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" alt="Profile views">
+</p>
+
+<br>
+
+```go
+package main
+
+// I design and ship products end to end — from the Go service behind them
+// to the app in your pocket, and lately, the AI voice that talks back.
+type Engineer struct {
+	Name     string
+	Role     string
+	Backend  []string
+	Frontend []string
+	Mobile   []string
+	AI       []string
+	Infra    []string
+	Motto    string
+}
+
+var me = Engineer{
+	Name:     "Eyüp Duran",
+	Role:     "Full-Stack Software Engineer",
+	Backend:  []string{"Go", "Python / FastAPI", "C# / .NET", "Node.js"},
+	Frontend: []string{"React", "TypeScript", "Vite", "Three.js"},
+	Mobile:   []string{"Capacitor", "React Native / Expo"},
+	AI:       []string{"Realtime voice agents", "STT → LLM → TTS", "LLM tooling"},
+	Infra:    []string{"Docker", "Kubernetes (k3s)", "Traefik", "Cloudflare"},
+	Motto:    "Make it work, make it fast, make it feel alive.",
+}
+```
+
+## ⟢ What I build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎙️ Realtime Voice AI
+Low-latency conversational agents over WebRTC — streaming **STT → LLM → TTS** pipelines, voice activity detection, interruption handling and pluggable model providers.
+
+<sub>`LiveKit` · `LiveKit Agents` · `Silero VAD` · `OpenAI` · `Gemini Live` · `Soniox` · `WebRTC`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+#### ⚡ Event-Driven Go Backends
+REST + WebSocket services built for concurrency: message-bus fan-out, distributed locks, role-based access control, scheduled jobs and structured logging.
+
+<sub>`Go` · `chi` · `WebSocket` · `NATS` · `Redis` · `Casbin` · `JWT` · `zerolog`</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 📱 One Codebase, Every Screen
+A single React + TypeScript codebase shipped to **web, iOS and Android** — with push notifications, social login, in-app purchases and native device APIs.
+
+<sub>`React` · `Vite` · `Capacitor` · `React Native` · `Expo` · `Redux Toolkit` · `Zustand` · `i18next`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎮 Multiplayer, 3D & Games
+Authoritative realtime game rooms, browser games on a shared monorepo engine, and 3D scenes that run smoothly on mobile.
+
+<sub>`Colyseus` · `Phaser` · `Babylon.js` · `Three.js` · `React Three Fiber` · `Howler` · `Turborepo`</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎬 Code-Driven Video & Animation
+Animations written as code and rendered frame-by-frame in headless Chromium to MP4 — plus glTF optimization pipelines and motion-heavy web experiences.
+
+<sub>`Three.js` · `Puppeteer` · `Playwright` · `FFmpeg` · `glTF-Transform` · `GSAP` · `Lottie`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🛡️ Self-Hosted Infrastructure
+Containerized stacks from laptop to cluster: reverse proxies, TLS, observability, malware scanning, backups and auto-healing services.
+
+<sub>`Docker` · `k3s` · `Traefik` · `Nginx` · `Cloudflare` · `AWS S3` · `OpenObserve` · `ClamAV`</sub>
+
+</td>
+</tr>
+</table>
+
+## ⟢ Toolbox
+
+<table>
+<tr><td><b>Languages</b></td><td>
+<img src="https://skillicons.dev/icons?i=go,ts,js,py,cs,java&theme=dark" alt="Languages">
+</td></tr>
+<tr><td><b>Frontend</b></td><td>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,materialui,redux,threejs,angular&theme=dark" alt="Frontend">
+</td></tr>
+<tr><td><b>Backend &amp; Data</b></td><td>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,dotnet,spring,postgres,redis,mysql,sqlite,supabase,firebase&theme=dark" alt="Backend and data">
+</td></tr>
+<tr><td><b>Infra &amp; Tooling</b></td><td>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,cloudflare,aws,linux,githubactions,pnpm,vitest,git,figma,postman&theme=dark" alt="Infra and tooling">
+</td></tr>
+<tr><td><b>Realtime &amp; More</b></td><td>
+<img src="https://img.shields.io/badge/LiveKit-111827?style=flat-square&logo=livekit&logoColor=white" alt="LiveKit">
+<img src="https://img.shields.io/badge/WebRTC-111827?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC">
+<img src="https://img.shields.io/badge/NATS-111827?style=flat-square&logo=natsdotio&logoColor=27AAE1" alt="NATS">
+<img src="https://img.shields.io/badge/Colyseus-111827?style=flat-square" alt="Colyseus">
+<img src="https://img.shields.io/badge/Capacitor-111827?style=flat-square&logo=capacitor&logoColor=119EFF" alt="Capacitor">
+<img src="https://img.shields.io/badge/Expo-111827?style=flat-square&logo=expo&logoColor=white" alt="Expo">
+<img src="https://img.shields.io/badge/Babylon.js-111827?style=flat-square&logo=babylondotjs&logoColor=BB464B" alt="Babylon.js">
+<img src="https://img.shields.io/badge/Phaser-111827?style=flat-square" alt="Phaser">
+<img src="https://img.shields.io/badge/TanStack_Query-111827?style=flat-square&logo=reactquery&logoColor=FF4154" alt="TanStack Query">
+<img src="https://img.shields.io/badge/Zod-111827?style=flat-square&logo=zod&logoColor=3E67B1" alt="Zod">
+<img src="https://img.shields.io/badge/Stripe-111827?style=flat-square&logo=stripe&logoColor=635BFF" alt="Stripe">
+<img src="https://img.shields.io/badge/Traefik-111827?style=flat-square&logo=traefikproxy&logoColor=24A1C1" alt="Traefik">
+<img src="https://img.shields.io/badge/Playwright-111827?style=flat-square" alt="Playwright">
+<img src="https://img.shields.io/badge/Turborepo-111827?style=flat-square&logo=turborepo&logoColor=EF4444" alt="Turborepo">
+<img src="https://img.shields.io/badge/Claude_Code-111827?style=flat-square&logo=claude&logoColor=D97757" alt="Claude Code">
+</td></tr>
+</table>
+
+## ⟢ How I like to wire things
+
+```mermaid
+flowchart LR
+    subgraph Clients
+        W["🌐 Web<br/>React + Vite"]
+        M["📱 Mobile<br/>Capacitor · Expo"]
+        G["🎮 3D & Games<br/>Three.js · Phaser"]
+    end
+
+    E["🛡️ Edge<br/>Traefik · Cloudflare"]
+
+    subgraph Services
+        API["⚡ Go API<br/>REST · WebSocket"]
+        AG["🎙️ AI Agents<br/>Python · LiveKit Agents"]
+        MP["🕹️ Game Rooms<br/>Colyseus"]
+    end
+
+    subgraph Realtime
+        LK["📡 LiveKit SFU<br/>WebRTC"]
+        BUS(["🔀 NATS"])
+    end
+
+    subgraph Data
+        PG[("PostgreSQL")]
+        RD[("Redis")]
+        S3[("Object Storage")]
+    end
+
+    Clients --> E --> API & MP
+    Clients -. "audio / video" .-> LK
+    LK <-->|"STT → LLM → TTS"| AG
+    API <--> BUS <--> AG
+    API --> PG & RD & S3
+```
+
+## ⟢ Open-source side projects
+
+| Project | What it is | Built with |
+| :-- | :-- | :-- |
+| [**memoro**](https://github.com/eyupduran/memoro) | Vocabulary app that turns daily words into lock-screen wallpapers for passive learning | `React Native` `Expo` `SQLite` `Supabase` |
+| [**Voxtory**](https://github.com/eyupduran/Voxtory) | Fully offline AI content & video studio — local TTS, transcription and transitions | `JavaScript` `Piper TTS` `Whisper` `FFmpeg` |
+| [**claudelauncher**](https://github.com/eyupduran/claudelauncher) | Open any project & Claude Code session on your PC from your phone via Telegram | `Node.js` `Telegram Bot API` `VS Code` |
+| [**animasyon-lab**](https://github.com/eyupduran/animasyon-lab) · [live](https://eyupduran.github.io/animasyon-lab/) | Browser-based 3D educational animations, rendered frame-by-frame to MP4 | `Three.js` `Puppeteer` `glTF` `GitHub Pages` |
+| [**HadisAtlas**](https://github.com/eyupduran/HadisAtlas) | Multilingual reading, saving & sharing app | `React Native` `Expo` `TypeScript` |
+| [**Vakitname**](https://github.com/eyupduran/Vakitname-expo) | Prayer-times app powered by a public REST API | `React Native` `Expo` `TypeScript` |
+
+## ⟢ Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eyupduran/eyupduran/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eyupduran/eyupduran/output/github-snake.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/eyupduran/eyupduran/output/github-snake.svg" width="100%">
+</picture>
+
+<p align="center">
+  <sub>Currently exploring: lower-latency voice pipelines · on-device AI · AI-assisted developer tooling</sub>
 </p>
